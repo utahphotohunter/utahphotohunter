@@ -1,6 +1,6 @@
 ## Hi there 👋
 🌱 I’m currently learning Javascript
-💬 Ask me about _photography_
+💬 Ask me about **photography**
 
 <!--
 **utahphotohunter/utahphotohunter** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
