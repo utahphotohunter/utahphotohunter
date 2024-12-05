@@ -1,8 +1,8 @@
 ## Sup 👋
 🌱 I’m currently learning **Javascript**<br>
-💬 Ask me about **photography**
-🔭 I’m currently working on a _BS at BYUI_
-⚡ Fun fact: I used to do street magic in Vegas
+💬 Ask me about **photography**<br>
+🔭 I’m currently working on a _BS at BYUI_<br>
+⚡ Fun fact: I used to do street magic in Vegas<br>
 
 <!--
 **utahphotohunter/utahphotohunter** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
